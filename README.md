@@ -1,4 +1,4 @@
-# projet-maintenance-systeme
+# Explorateur Autonome
 
 ## Auteur :
 ### - Alexis Ballan
