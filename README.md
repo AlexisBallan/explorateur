@@ -1,6 +1,4 @@
-# EN COURS
-
-# Explorateur Autonome
+# Explorateur
 
 ## Auteur :
 ### - Alexis Ballan
